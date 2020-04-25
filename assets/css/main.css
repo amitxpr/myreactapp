@@ -1585,7 +1585,7 @@
 /* Type */
 
 	body, input, select, textarea {
-		color: #969696;
+		color: #383838;
 		font-family: "Raleway", Arial, Helvetica, sans-serif;
 		font-size: 13pt;
 		font-weight: 300;
@@ -1858,7 +1858,7 @@
 		}
 
 	header p {
-		color: #969696;
+		color: #383838;
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
@@ -2093,7 +2093,7 @@
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #969696;
+			color: #383838;
 			cursor: pointer;
 			display: inline-block;
 			font-size: 1em;
@@ -2152,27 +2152,27 @@
 	}
 
 	::-webkit-input-placeholder {
-		color: #969696 !important;
+		color: #383838 !important;
 		opacity: 1.0;
 	}
 
 	:-moz-placeholder {
-		color: #969696 !important;
+		color: #383838 !important;
 		opacity: 1.0;
 	}
 
 	::-moz-placeholder {
-		color: #969696 !important;
+		color: #383838 !important;
 		opacity: 1.0;
 	}
 
 	:-ms-input-placeholder {
-		color: #969696 !important;
+		color: #383838 !important;
 		opacity: 1.0;
 	}
 
 	.formerize-placeholder {
-		color: #969696 !important;
+		color: #383838 !important;
 		opacity: 1.0;
 	}
 
@@ -2652,7 +2652,7 @@
 			input[type="button"].alt.icon:before,
 			button.alt.icon:before,
 			.button.alt.icon:before {
-				color: #969696;
+				color: #383838;
 			}
 
 		input[type="submit"].special,
@@ -2689,7 +2689,7 @@
 		button:disabled,
 		.button.disabled,
 		.button:disabled {
-			background-color: #969696 !important;
+			background-color: #383838 !important;
 			box-shadow: inset 0 -0.15em 0 0 rgba(0, 0, 0, 0.15);
 			color: #fff !important;
 			cursor: default;
@@ -3014,19 +3014,19 @@
 	}
 
 	#footer .copyright {
-		color: #969696;
+		color: #383838;
 		font-size: 0.8em;
 		margin: 0 0 2em 0;
 		padding: 0;
 	}
 
 		#footer .copyright a {
-			color: #969696;
+			color: #383838;
 			text-decoration: none;
 		}
 
 			#footer .copyright a:hover {
-				color: #969696;
+				color: #383838;
 				text-decoration: underline;
 			}
 
