@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/myreactapp/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/myreactapp/static/js/main.f35eeff8.chunk.js",
+    "main.js.map": "/myreactapp/static/js/main.f35eeff8.chunk.js.map",
+    "runtime-main.js": "/myreactapp/static/js/runtime-main.33a2426b.js",
+    "runtime-main.js.map": "/myreactapp/static/js/runtime-main.33a2426b.js.map",
+    "static/js/2.13f4d69f.chunk.js": "/myreactapp/static/js/2.13f4d69f.chunk.js",
+    "static/js/2.13f4d69f.chunk.js.map": "/myreactapp/static/js/2.13f4d69f.chunk.js.map",
+    "index.html": "/myreactapp/index.html",
+    "precache-manifest.16d46dafc78fc4ea552d326a1a39659c.js": "/myreactapp/precache-manifest.16d46dafc78fc4ea552d326a1a39659c.js",
+    "service-worker.js": "/myreactapp/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/myreactapp/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.13f4d69f.chunk.js.LICENSE.txt": "/myreactapp/static/js/2.13f4d69f.chunk.js.LICENSE.txt",
+    "static/media/pic01.jpg": "/myreactapp/static/media/pic01.92305e72.jpg",
+    "static/media/pic02.jpg": "/myreactapp/static/media/pic02.7a1cc4ce.jpg",
+    "static/media/pic03.jpg": "/myreactapp/static/media/pic03.28b540b3.jpg",
+    "static/media/pic04.jpg": "/myreactapp/static/media/pic04.9aedd6f1.jpg",
+    "static/media/pic05.jpg": "/myreactapp/static/media/pic05.ee186442.jpg",
+    "static/media/pic06.jpg": "/myreactapp/static/media/pic06.542ba962.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33a2426b.js",
+    "static/js/2.13f4d69f.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.f35eeff8.chunk.js"
+  ]
+}
